@@ -1,0 +1,2 @@
+# Caixeiro Viajante escrito em MATLAB
+Este projeto contém a aplicação de um algoritmo de caixeiro viajante para uma rota com 76 cidades. Foram considerados dois algoritmos: o primeiro é um algoritmo básico que tenta reduzir a distância percorrida e o segundo considera alguns parâmetros como altura das cidades e velocidade para reduzir o consumo de energia de um veículo elétrico.
